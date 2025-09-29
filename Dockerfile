@@ -1,13 +1,24 @@
 FROM python:3.11-slim
 
-# Install system dependencies for building scientific libraries
-RUN apt-get update && apt-get install -y build-essential gcc g++ libatlas-base-dev
-
+# Set working directory
 WORKDIR /app
 
-COPY . .
+# Install system dependencies for building packages
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    build-essential \
+    gcc \
+    g++ \
+    libpq-dev \
+    && rm -rf /var/lib/apt/lists/*
 
-RUN pip install --upgrade pip setuptools wheel
+# Copy requirements and install dependencies
+COPY requirements.txt .
+RUN pip install --upgrade pip wheel setuptools
 RUN pip install -r requirements.txt
 
-CMD ["gunicorn", "main:app"]
+# Copy app code
+COPY . .
+
+# Expose port and set the command
+EXPOSE 8000
+CMD ["python", "app.py"]
