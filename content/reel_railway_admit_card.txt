@@ -1,0 +1,13 @@
+0-5s: [On-screen: Excited host with railway images in the background] "Are you waiting for your railway admit card? Here's how to get it fast!"
+
+5-15s: [Screen split between step-by-step visuals and host speaking] "Visit the official Indian Railways exam website, click on 'Download Admit Card', enter your registration number and date of birth."
+
+15-25s: [Close-up of the website interface] "Check all details carefully — exam date, time, and venue. Download and print your admit card well before the exam day!"
+
+25-35s: [Host gestures confidently] "Remember, your railway admit card is your entry pass. No hall ticket, no exam!"
+
+35-45s: [Screen with a checklist of tips] "Tip: Keep multiple copies, carry a valid ID, and arrive early on exam day!"
+
+45-50s: [Host with a call-to-action] "Like and share if this helped you! For more updates on railway exams, subscribe now!"
+
+50-60s: [On-screen text: 'Stay prepared, stay confident!'] [End with your channel logo and subscribe button]

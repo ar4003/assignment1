@@ -1,0 +1,14 @@
+[0-5s] [On-screen: Text ‘UPSC Admit Card Out!’ with attention-grabbing background music] 
+Voice-over: 'Are you waiting for your UPSC admit card? Here’s what you need to know!'
+
+[5-15s] [On-screen: Show website homepage with UPSC logo] 
+Voice-over: 'Visit the official UPSC website or download the admit card directly through the link provided.'
+
+[15-25s] [On-screen: Steps to download - login, enter details, download admit card] 
+Voice-over: 'Enter your registration details, download your admit card, and verify all information carefully.'
+
+[25-30s] [On-screen: Reminder text ‘Check exam center, admit card, and exam date!’] 
+Voice-over: 'Remember, your admit card is your entry pass. Don’t forget to check the exam center and date!'
+
+[30-35s] [On-screen: Call to action with website URL] 
+Voice-over: 'Visit the official UPSC website now to download your admit card. Be prepared!'

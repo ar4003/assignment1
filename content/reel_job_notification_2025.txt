@@ -1,0 +1,11 @@
+[0-5s] [Visual: Excited person checking phone, bold text overlay: 'Job Notification 2025 Out!']
+Narrator: "Looking for your dream job in 2025? The latest job notifications are here!"
+
+[5-15s] [Visual: Screen split showing various government and private sector logos, with animated text: 'Government Jobs | Private Sector' ]
+Narrator: "From government exams to private sector openings, stay ahead with the newest updates!"
+
+[15-25s] [Visual: Hand scrolling through a job portal, highlighting 'Apply Now' buttons, text overlay: 'Check Eligibility & Apply']
+Narrator: "Don't miss out! Check eligibility criteria, dates, and apply directly to secure your future."
+
+[25-30s] [Visual: Call-to-action graphic: 'Subscribe for Updates' with clickable bell icon] 
+Narrator: "Subscribe now and turn on notifications for all the latest job alerts in 2025!"

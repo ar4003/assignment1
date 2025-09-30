@@ -1,0 +1,18 @@
+Complete video script with timing cues:
+
+[0-5s] (Visual: Excited presenter on screen with text overlay "Job Alert! Recruitment Notification Out!")
+Presenter: "Looking for your next job opportunity? Stay tuned!"
+
+[5-15s] (Visual: Screen transitions to a list of job categories or a webpage with job listings)
+Presenter: "Fresh recruitment notifications are out now! From government jobs to private sector openings, there's something for everyone."
+
+[15-25s] (Visual: Highlighted keywords like 'Apply Now', 'Deadline', 'Eligibility')
+Presenter: "Check the official updates, gather your documents, and don’t miss the application deadline!"
+
+[25-35s] (Visual: Call-to-action button or link with 'Apply Today!' text)
+Presenter: "Visit the official recruitment portals today and secure your future!"
+
+[35-40s] (Visual: Logo or social media handles with text "Stay updated")
+Presenter: "Like, share, and subscribe for all latest job notifications!"
+
+[End with upbeat music and text overlay: "Your Dream Job Awaits!"]

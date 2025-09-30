@@ -1,0 +1,6 @@
+0-5s: [Close-up of a smartphone notification popping up] "Are you waiting for the railway result?"  
+5-15s: [Cut to a person checking their laptop/phone with excitement] "Your railway exam results are finally out! Check your status now on the official railway website."  
+15-25s: [Screen recording of navigating to the railway result page and entering login details] "Stay focused! Login with your details and see if you've made the cut."  
+25-40s: [Celebratory reaction or a thumbs-up] "Congratulations if you're selected! If not, don't lose hope—keep preparing for the next opportunity. For updates, follow us!"  
+40-50s: [Call-to-action overlay with website or social media handle] "Like, share, and subscribe for the latest government job updates! Good luck!"  
+50-60s: [End screen with motivational quote: ‘Success is just around the corner!’]

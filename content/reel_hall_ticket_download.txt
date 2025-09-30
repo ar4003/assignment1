@@ -1,0 +1,6 @@
+[0-5s] (Visual: Person sitting at a laptop, looking worried) Are you waiting to download your hall ticket for upcoming exams?
+[5-15s] (Visual: Screen showing a website with 'Admit Card/ Hall Ticket' section) Just follow these simple steps: Visit the official exam portal, login with your credentials, and click on 'Hall Ticket Download.'
+[15-25s] (Visual: Mouse clicking on the download link, highlighting the admit card) Your admit card will appear—check all your details carefully!
+[25-40s] (Visual: Person printing the hall ticket or saving it on a phone) Don't forget, your admit card is essential to enter the exam hall. Download it early to avoid last-minute stress!
+[40-50s] (Visual: Person smiling, holding the printed hall ticket) Need help? Visit the official exam website or contact support immediately.
+[50-60s] (Visual: Call-to-Action screen) Like, share, and subscribe for more exam tips. Download your hall ticket today and ace your exam!

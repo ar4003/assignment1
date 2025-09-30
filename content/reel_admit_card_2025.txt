@@ -1,0 +1,14 @@
+[(0-5s) Visual: Excited student holding admit card] 
+Voiceover/Text: 'Waiting for your Admit Card 2025? Here's what you must know!'
+
+[(5-15s) Visual: Screen showing official website login page] 
+Voiceover/Text: 'Visit the official exam portal and click on the admit card download link. Keep your registration details handy!'
+
+[(15-30s) Visual: Zoom into admit card with details highlighted] 
+Voiceover/Text: 'Check your exam date, venue, and candidate info carefully. Download and take a clear print!'
+
+[(30-45s) Visual: Student preparing with necessary documents, identity proof] 
+Voiceover/Text: 'Remember, your admit card is your entry pass. Don’t forget to carry it to the exam hall!'
+
+[(45-60s) Visual: Call to action with text overlay ‘Download Now!’ and website URL] 
+Voiceover/Text: 'Stay updated! Download your Admit Card 2025 today. Subscribe for more exam updates!'

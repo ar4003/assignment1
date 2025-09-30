@@ -1,0 +1,9 @@
+0-5s: [Close-up of a computer screen showing a merit list notification] Voiceover: 'Waiting for your exam results? Here’s what you need to know about the merit list!'
+
+5-15s: [Transition to a screenshot of a merit list with candidate names highlighted] Voiceover: 'The merit list is the official ranking based on your exam scores — crucial for government and job selections.'
+
+15-25s: [Show a person checking their result on a mobile device, with a happy reaction] Voiceover: 'Once released, check your merit list carefully — your name here could mean the next big step in your career.'
+
+25-35s: [Cut to a call-to-action screen with ‘Stay updated’ and ‘Subscribe for latest updates’] Voiceover: 'Stay informed about all your results and updates. Subscribe now and never miss an important merit list release!'
+
+35-45s: [End screen with social media handles and call-to-action text] Voiceover: 'Good luck! Your success story starts with the right result—get notified today!'

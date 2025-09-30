@@ -1,0 +1,6 @@
+[0-5s] [Visual: Alert icon & text overlay] 'Waiting for Police Admit Card? Here's what you need to know!'
+[5-15s] [Visual: Screen recording of official website] 'Visit the official police recruitment portal. Find the 'Download Admit Card' link.' 
+[15-25s] [Visual: Cursor clicking and entering registration details] 'Enter your registration ID and DOB carefully. Download your police admit card.' 
+[25-35s] [Visual: Admit card screenshot] 'Check all details—exam date, venue, your name. Prepare well!'
+[35-45s] [Visual: Excited candidate with admit card] 'Don’t forget the admit card is mandatory for entry. Keep it safe!'
+[45-60s] [Visual: CTA text overlay] 'Like, share, and subscribe for more exam updates! Good luck!'

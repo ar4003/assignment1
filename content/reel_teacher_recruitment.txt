@@ -1,0 +1,5 @@
+0-5s: [Visual: Exciting animation or upbeat music with text overlay] "Attention aspiring teachers! Big news on the horizon!"
+5-15s: [Visual: Footage of teachers in a classroom, students engaging] "Government and private school teacher recruitment alerts are out! If you're passionate about shaping minds, this is your chance."
+15-30s: [Visual: Screen displaying 'Apply Now' with a checklist of requirements] "Check the official notifications for eligibility criteria, application dates, and exam details. Don't miss your shot to join the education sector!"
+30-45s: [Visual: Close-up of a calendar, ticking countdown] "Hurry up! Opportunities like these come once a year. Prepare your documents, tailor your resume, and get ready to interview."
+45-60s: [Visual: Call-to-action button or text] "Like, share, and subscribe for more recruitment updates. Hit the link below to explore current job openings now!"

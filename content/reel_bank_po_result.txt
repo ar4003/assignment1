@@ -1,0 +1,14 @@
+0-5s: [Excited tone, overlay of 'Bank PO Result Announced!']
+Host (smiling): "Are you waiting anxiously for your Bank PO result? Your time is here!"
+
+5-15s: [Show sample result portal on screen]
+Host: "Official results are out! Visit the official bank exam website now to check your score and rank."
+
+15-30s: [Highlight steps to check result: login, enter roll number, view result]
+Host: "Just log in with your credentials, and your result will be right there. Remember, every effort counts!"
+
+30-45s: [Encourage viewers, show happy candidates or success stories]
+Host: "Whether you cleared or not, don’t lose hope. Keep preparing and stay motivated!"
+
+45-60s: [Call to action with text overlay]
+Host: "Like, share, and subscribe for more updates on bank exams and success tips. Good luck!"

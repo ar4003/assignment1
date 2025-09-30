@@ -1,0 +1,5 @@
+ [0-5s] Hook: 'Waiting anxiously for your SSC result? Here's how you can check it easily!' 
+[5-15s] Main Content: 'Visit the official SSC website or check your SMS for the latest results. Make sure to have your roll number ready!' 
+[15-30s] Tips: 'Stay patient, keep refreshing, and don’t forget to download and take a printout of your mark sheet for future reference.' 
+[30-45s] Call to Action: 'Like, share, and subscribe for more exam updates and tips! Congratulate your friends and family if you’ve succeeded!' 
+[45-60s] Closing: 'Good luck, everyone! Your hard work has paid off. Stay tuned for more educational updates.'

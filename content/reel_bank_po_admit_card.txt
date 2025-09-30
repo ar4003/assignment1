@@ -1,0 +1,14 @@
+[0-5s] [On-screen text: 'Bank PO Admit Card 2023']
+Host (with energetic tone): 'Are you waiting for your Bank PO admit card? Here's what you need to know!'
+
+[5-15s] [Show website screenshot / admit card details]
+Host: 'Visit the official IBPS website or your exam portal. Download your admit card smoothly by entering your registration details.'
+
+[15-25s] [Highlight admit card details on-screen]
+Host: 'Make sure your details like photo, exam center, and date are correct. Don't forget to print a copy!' 
+
+[25-35s] [Show tips for exam day]
+Host: 'Prepare your documents, reach your exam center early, and stay confident. All the best for your Bank PO exam!'
+
+[35-40s] [Call-to-action on-screen: 'Download Now & Crack the Exam!']
+Host: 'Like, share, and subscribe for more exam updates and tips!'

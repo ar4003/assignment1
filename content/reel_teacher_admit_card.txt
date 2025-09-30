@@ -1,0 +1,6 @@
+0-5s: [Show a busy teacher checking their email on a laptop] "Are you waiting for your teacher admit card?"
+5-15s: [Display a close-up of an admit card on the screen] "Here's how to download your teacher admit card easily!"
+15-25s: [Show step-by-step visuals of logging into the official website and downloading the admit card] "Visit the official website, log in with your credentials, and download your admit card before the exam date!"
+25-35s: [Overlay text: 'Don't forget to bring your admit card!'] "Remember, your admit card is your entry pass! Keep it safe and carry it on exam day."
+35-45s: [Show a confident teacher smiling, holding their admit card] "Get prepared, stay updated, and ace your exam!"
+45-60s: [Call to action screen with website URL and ‘Subscribe for more updates’] "Like, share, and subscribe for more exam tips! Good luck!"

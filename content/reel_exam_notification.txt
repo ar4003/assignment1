@@ -1,0 +1,5 @@
+0-5s: [Bright background with animated text] "Attention Job Seekers!" 
+5-10s: [Presenter on screen] "Are you waiting for your next big opportunity? Keep an eye out for the latest *exam notifications*!" 
+10-20s: [Overlay of official notification snippets] "Upcoming government exams, recruitment drives, and more — all the latest alerts in one place." 
+20-30s: [Call to action with clickable bell icon animation] "Don’t miss out! Subscribe NOW and hit the bell for instant updates on all exam notifications. Your dream job could be just an exam away!" 
+30-35s: [End screen with subscribe prompt & social media handles] "Stay informed. Stay ahead."
