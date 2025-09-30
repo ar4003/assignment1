@@ -1,20 +1,13 @@
-"""
-Phase 3: GPT-2 Agent - Multi-Platform Content Generation
-Generate Instagram posts, blog articles, YouTube reels, and thumbnails
-"""
-
 import sys
 import os
 import json
 import time
 import requests
 
-# Add parent directory to path
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from config.settings import settings
 from scripts.utils import setup_logging, load_data_from_csv, save_data_to_csv, save_json, get_current_timestamp, add_delay
-
 
 class GPT2ContentGenerationAgent:
     """GPT-2 Agent for generating multi-platform content with ApiPipe"""
@@ -193,12 +186,18 @@ RESPONSE FORMAT (JSON):
         for entry in original_data:
             key = entry['keyword']
             if key in content_map:
-                entry['status'] = 'Content Generated'
+                # Mark Not Relevant entries explicitly
+                if entry.get('category') == settings.CATEGORY_NOT_RELEVANT:
+                    entry['status'] = 'Not Relevant'
+                else:
+                    entry['status'] = 'Content Generated'
                 entry['content_generated_at'] = get_current_timestamp()
-                entry['instagram_link'] = f"drive://instagram_{key.replace(' ', '_')}.txt"
-                entry['blog_link'] = f"drive://blog_{key.replace(' ', '_')}.html"
-                entry['youtube_reel_link'] = f"drive://reel_{key.replace(' ', '_')}.txt"
-                entry['youtube_thumbnail_link'] = f"drive://thumbnail_{key.replace(' ', '_')}.txt"
+                # Replace drive:// with valid URLs for clickability (update base_url as needed)
+                base_url = "https://your-public-host.com/ai-content"
+                entry['instagram_link'] = f"{base_url}/instagram_{key.replace(' ', '_')}.txt"
+                entry['blog_link'] = f"{base_url}/blog_{key.replace(' ', '_')}.html"
+                entry['youtube_reel_link'] = f"{base_url}/reel_{key.replace(' ', '_')}.txt"
+                entry['youtube_thumbnail_link'] = f"{base_url}/thumbnail_{key.replace(' ', '_')}.png"
                 self.logger.info(f"📋 Updated {key} with content links")
             updated.append(entry)
         return updated
@@ -208,15 +207,16 @@ RESPONSE FORMAT (JSON):
         self.logger.info("=" * 60)
 
         try:
-            data = load_data_from_csv('phase2_approved.csv')  # Use approved file here!
-            self.logger.info(f"📊 Loaded {len(data)} approved entries")
+            data = load_data_from_csv('phase2_approved.csv')
+            self.logger.info(f"📊 Loaded {len(data)} entries from phase2_approved.csv")
 
             generated_content = self.process_approved_entries(data)
             if not generated_content:
-                self.logger.warning("⚠️ No content generated, make sure entries are approved with status 'Run GPT'")
+                self.logger.warning("⚠️ No content generated, please check 'Run GPT' status entries")
                 return False
 
             save_json(generated_content, 'generated_content.json')
+
             summary = []
             for item in generated_content:
                 instagram = item.get('instagram_post', {})
@@ -235,13 +235,13 @@ RESPONSE FORMAT (JSON):
             updated_data = self.update_original_data_with_content_links(data, generated_content)
             save_data_to_csv(updated_data, 'updated_trends_data.csv')
 
-            self.logger.info("\n✅ Phase 3 Complete!")
+            self.logger.info("\n✅ Phase 3 Completed Successfully")
             self.logger.info(f"Generated content for {len(generated_content)} entries")
-            self.logger.info("Content saved to JSON and CSV summary files")
+            self.logger.info("Saved generated content to JSON and CSV summary files")
 
             return True
         except Exception as e:
-            self.logger.error(f"❌ Phase 3 failed: {str(e)}")
+            self.logger.error(f"❌ Phase 3 Failed: {str(e)}")
             return False
 
 
